@@ -4,7 +4,7 @@ This adds a simple GUI based search to your Tools dropdown menu that can be very
 
 **Search Recursively:** This will modify the base prefab search to also include all child variants as well.
 
-**Component Name:** This will search for all prefabs that use a specific component. While Unity's built in search can this, it is flawed in that it does not detect components on nested/child objects within the prefab. This search will also look at all child objects in every prefab.
+**Component Name:** This will search for all prefabs that use a specific component. While Unity's built in search can do this, it is flawed in that it does not detect components on nested/child objects within the prefab. This search will also look at all child objects in every prefab.
 
 **Filter By Layer:** Filters search result by defined physics layer.
 
